@@ -17,7 +17,7 @@ Please replace
 $OktaAPIKey = "CHANGE-API-KEY"
 $OktaInstance = "https://MYOKTAINSTANCE.okta.com"
 ```
-with your Okta API Key and your Okta Instance URL.
+inside oktadeavtiveduserdeletion.ps1 with your Okta API Key and your Okta Instance URL.
 
 ## Issues
 If you find any bugs feel free to file an issue
