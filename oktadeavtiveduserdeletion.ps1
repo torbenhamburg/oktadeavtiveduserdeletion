@@ -1,7 +1,7 @@
-### Okta Active Directory deactivated User daily deletion script
+### Deletion of orphoned Active Directory synced accounts inside the Okta Cloud
 ### Version 1.0
 ### 10.09.2019 by Torben Jaster
-### Deletes deleted/deactivated Users inside the Okta Cloud for cleanup
+### Deletes on Active Directory deleted/deactivated Users inside the Okta Cloud for cleanup
 
 ### Import Powershell Module
 Import-Module OktaAPI
